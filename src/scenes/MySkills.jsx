@@ -24,8 +24,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+           Proficient in various artistic mediums with a keen eye for design, adept at managing social media platforms, and actively learning web development skills to create engaging online experiences.
           </p>
         </motion.div>
 
