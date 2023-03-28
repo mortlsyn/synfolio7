@@ -115,15 +115,13 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">03</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Imaginative
+                Artistry
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Accumsan eu fringilla nisi, eget. Vitae, eget ut id proin arcu in
-            curabitur. Lectus libero, egestas enim aliquam quis felis amet.
-            Sagittis, amet netus fringilla netus lobortis odio sed platea.
+           In my free time, I love to explore my creative side through various art forms. I enjoy working with different mediums, such as paint, watercolors, and ink drawings, to create unique pieces that express my artistic vision. As an artist, I am constantly seeking new ways to challenge myself and refine my skills. Whether I'm working on a commissioned piece or experimenting with new techniques, art remains a fundamental part of my life outside of my work as a social media manager and aspiring web developer.
             Bibendum.
           </p>
         </motion.div>
