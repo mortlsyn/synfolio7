@@ -25,8 +25,7 @@ const Project = ({ title }) => {
       <div className={overlayStyles}>
         <p className="text-2xl font-playfair">{title}</p>
         <p className="mt-7">
-          Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla
-          porttitor accumsan tincidunt.
+          This is a website a created in school for a small business named Dafni. I used my own original desins and used wordpress and divi to execute a beautiful on theme design and built in shop using ecwid.
         </p>
       </div>
       <img src={`../assets/${projectTitle}.jpeg`} alt={projectTitle} />
