@@ -25,7 +25,7 @@ const Project = ({ title }) => {
       <div className={overlayStyles}>
         <p className="text-2xl font-playfair">{title}</p>
         <p className="mt-7">
-          This is a website a created in school for a small business named Dafni. I used my own original desins and used wordpress and divi to execute a beautiful on theme design and built in shop using ecwid.
+          hi
         </p>
       </div>
       <img src={`../assets/${projectTitle}.jpeg`} alt={projectTitle} />
@@ -57,9 +57,7 @@ const Projects = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-          fames odio in at. At magna ornare dictum lectus. Purus massa morbi
-          purus nec eget eleifend ut elit.
+          Here are a few of my recent designs, interfaces and applications that I have created throughout my learning experince as a web designer & developer.
         </p>
       </motion.div>
 
