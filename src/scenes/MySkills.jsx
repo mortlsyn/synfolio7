@@ -64,15 +64,13 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">01</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Experience
+                Web Application Experience
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-            morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-            odio sit sagittis,
+           Through completing a web application certification program, I have gained a wide range of skills and experience in the digital realm. I am proficient in popular platforms like WordPress and Canva, and have experience with coding languages such as HTML, PHP, and CSS. Additionally, I have explored creative software like Unity, allowing me to bring a unique perspective to my work as an artist, social media manager, and aspiring web developer.
           </p>
         </motion.div>
 
@@ -92,16 +90,13 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">02</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Innovative
+                Social Media Management
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Urna, eget pulvinar dolor cursus volutpat dictum odio. Nec ultricies
-            amet in in neque nibh tortor. Libero sed pretium justo nulla blandit
-            nulla amet habitant iaculis. Iaculis in congue vitae sollicitudin
-            faucibus a
+            Having worked as a social media manager for several accounts, I have developed a strong understanding of how to craft engaging content that resonates with target audiences. Currently, I manage two accounts, one for a coffee shop named 'Coffee An Donuts' and another for my rugby team, 'Fairfield Lady Yankees.' In this role, I am responsible for creating designs and flyers for posts, as well as producing reels and videos to increase engagement. In the past, I have also managed social media accounts for small businesses, creating TikToks and reels to advertise their products and services. With my experience in social media management, I am confident in my ability to develop and execute effective social media strategies.
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
